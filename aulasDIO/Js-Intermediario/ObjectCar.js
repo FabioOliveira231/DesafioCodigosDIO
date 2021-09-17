@@ -1,3 +1,4 @@
+// Object Method
 function obj(){
     let meuCarro = new Object();
     meuCarro.marca = "Corolla";
@@ -9,3 +10,4 @@ function obj(){
    meuCarro.ligar();
 };
 obj();
+
